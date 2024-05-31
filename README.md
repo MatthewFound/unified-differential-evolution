@@ -5,4 +5,4 @@ Differential Evolution (DE) is a metaheuristic, population-based evolutionary al
 
 Refs:
 JI Qiang. 2014. A unified differential evolution algorithm for global optimization. (2014).
-[7] Ji Qiang, Chad Mitchell, and Albert Qiang. 2016. Tuning of an adaptive unified differential evolution algorithm for global optimization. In 2016 IEEE Congress on EvolutionaryComputation(CEC). https://doi.org/10.1109/CEC.2016.7744305
+Ji Qiang, Chad Mitchell, and Albert Qiang. 2016. Tuning of an adaptive unified differential evolution algorithm for global optimization. In 2016 IEEE Congress on EvolutionaryComputation(CEC). https://doi.org/10.1109/CEC.2016.7744305
